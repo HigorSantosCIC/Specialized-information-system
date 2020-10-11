@@ -1,0 +1,50 @@
+#relacao.kqb
+## Aqui é direcionado a relação entre as doenças e os inputs dados com os sintomas sentidos
+
+febre(1, dengue)
+febre(2, zika  )
+febre(3, chiku )
+
+mancha(1, dengue)
+mancha(2, zika)
+mancha(3, chiku)
+
+dor_musc(1, dengue)
+dor_musc(2, zika  )
+dor_musc(3, chiku )
+
+dor_art(1, dengue)
+dor_art(2, zika  )
+dor_art(3, chiku )
+
+intens_art(1, dengue)
+intens_art(2, zika  )
+intens_art(3, chiku )
+
+edema(1, dengue)
+edema(2, zika)
+edema(3, chiku)
+
+conjuntivite(1, dengue)
+conjuntivite(2, zika)
+conjuntivite(3, chiku)
+
+dor_cabeca(1, dengue)
+dor_cabeca(2, zika  )
+dor_cabeca(3, chiku )
+
+coceira(1, dengue)
+coceira(2, zika  )
+coceira(3, chiku )
+
+hiper_gang(1, dengue)
+hiper_gang(2, zika  )
+hiper_gang(3, chiku )
+
+disc_hemorr(1, dengue)
+disc_hemorr(2, zika  )
+disc_hemorr(3, chiku )
+
+neuro(1, dengue)
+neuro(2, zika  )
+neuro(3, chiku )

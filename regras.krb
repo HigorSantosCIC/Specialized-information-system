@@ -1,0 +1,74 @@
+#regras.krb
+
+direct_febre
+	foreach
+		relacao.febre($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct__mancha
+	foreach
+		relacao.mancha($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct_dor_musc
+	foreach
+		relacao.dor_musc($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct_dor_art
+	foreach
+		relacao.dor_art($input, $sick)
+	assert
+		relacao.sick($sick)
+
+direct_intens_art
+	foreach
+		relacao.intens_art($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+
+direct_edema
+	foreach
+		relacao.edema($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct_conjuntivite
+	foreach
+		relacao.conjuntivite($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct_dor_cabeca
+	foreach
+		relacao.dor_cabeca($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct_coceira
+	foreach
+		relacao.coceira($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct_hiper_gang
+	foreach
+		relacao.hiper_gang($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct_disc_hemorr
+	foreach
+		relacao.disc_hemorr($input, $sick)
+	assert
+		relacao.sick($sick)
+		
+direct_neuro
+	foreach
+		relacao.neuro($input, $sick)
+	assert
+		relacao.sick($sick)
