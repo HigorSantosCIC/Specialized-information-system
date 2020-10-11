@@ -9,7 +9,7 @@ Necessario a instalação da biblioteca Pyke:
 http://pyke.sourceforge.net/
 
 
-Para executar o software, basta executar:
+Para executar o software:
 
 python3 main.py
 
