@@ -37,4 +37,4 @@ Para executar o software:
 
 python3 main.py
 
-
+Specialized information systems have been developed to support specific types of decisions, to work with specific types of data or to be used by specific organizations or by different groups of people within an organization.
